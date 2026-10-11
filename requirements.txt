@@ -1,0 +1,5 @@
+numpy>=1.22
+matplotlib>=3.5
+pillow>=9.0
+pytest>=7.0
+torch>=2.0   # CPU build is enough: pip install torch --index-url https://download.pytorch.org/whl/cpu
